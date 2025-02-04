@@ -62,8 +62,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 - **Fortnite**, **Valorant** (no TPM bypass included), **Rust**, **Siege**, **Apex**, **COD** series & more.
 - Compatible with **BE (BattlEye)**, **EAC (Easy Anti-Cheat)**, **VGK** (Vanguard).
-- **Tested and Working On**: ASUS, GIGABYTE, COLORFUL, BIOSTAR, MSI, EVGA, ASROCK, MICROSTAR, AORUS, HP, 
-**LENOVO, ACER, DELL < open a ticket to confirm compatibility. 💚**
+- **Tested and Working On**: ASUS, GIGABYTE, MSI, ASROCK, AORUS, HP + MORE 💚
 
 ---
 
