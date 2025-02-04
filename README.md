@@ -73,6 +73,8 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ![Serial_Checker](https://github.com/user-attachments/assets/8d765d43-d34f-439e-ba78-fd9353b9808f)
 
+*(Replace `https://youtu.be/8lfccOw3CrM`.)*
+
 ---
 
 ## Want to Learn More?
