@@ -44,10 +44,6 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
    - Recommended by multiple third-party servers.
    - Over **10,000+ vouches** gathered over the past 3.5 years.
 
-6. **Refunds & Support**
-   - Full refunds if it doesn’t work (see #〖📜〗tos for details).
-   - Prompt support for any issues, treating all customers with equal priority.
-
 ---
 
 ## Technical Notes
@@ -61,9 +57,9 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Supported Games & Anti-Cheats
 
-- **Fortnite**, **Valorant** (no TPM bypass needed), **Rust**, **Siege**, **Apex**, **COD** series & more.
-- Compatible with **BE (BattlEye)**, **EAC (Easy Anti-Cheat)**, **VGK** (Valorant).
-- **Tested and Working On**: ASUS, GIGABYTE, COLORFUL, BIOSTAR, MSI, EVGA, ASROCK, MICROSTAR, AORUS, HP, LENOVO, ACER, DELL (*Open a ticket if unsure about compatibility*).
+- **Fortnite**, **Valorant** (no TPM bypass included), **Rust**, **Siege**, **Apex**, **COD** series & more.
+- Compatible with **BE (BattlEye)**, **EAC (Easy Anti-Cheat)**, **VGK** (Vanguard).
+- **Tested and Working On**: ASUS, GIGABYTE, COLORFUL, BIOSTAR, MSI, EVGA, ASROCK, MICROSTAR, AORUS, HP, LENOVO, ACER, DELL.
 
 ---
 
@@ -79,7 +75,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Why Choose Verse?
 
-1. **__V__**ERSE → **__V__**ALUABLE PRODUCTS  
+1. *__V__*ERSE → *__V__*ALUABLE PRODUCTS  
    - Only top-quality software, thoroughly tested.
    - Partnerships are accepted only if they meet strict standards.
 
