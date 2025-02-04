@@ -80,7 +80,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 More information about this product is provided in the discord server.
 
 > **Join our Discord server**:  
-> [Discord Invite Link](https://discord.gg/YourDiscordLinkHere)
+> [Discord Invite Link](https://discord.gg/versewoofer)
 
 ---
 
