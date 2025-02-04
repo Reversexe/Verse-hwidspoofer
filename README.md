@@ -70,10 +70,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 ## Verse in Action
 
 ### Screenshots
-![Cola cat](https://github.com/user-attachments/assets/d9b83273-c2a4-4d20-b8a5-3c6fb4b058f9)
-
-
-*(Replace `VIDEO_ID`/`ANOTHER_VIDEO_ID` with your YouTube video IDs.)*
+![Verse-media-for-resellers](https://github.com/user-attachments/assets/26384119-3666-410a-a308-01ceb9888a8f)
 
 ---
 
