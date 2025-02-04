@@ -15,16 +15,16 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 - **Easy revert** to undo changes/spoofing if needed. ♻️
 - **Regular updates** to maintain strong stability and performance. 🔨
 - **Wide game compatibility**: Fortnite (tournaments included), Valorant, Rust, Siege, Apex, COD, and more.
-- **User-friendly tutorials** for those new to spoofing.
-- **AI-powered** support, available 24/7, to handle any questions or concerns.
+- **User-friendly tutorials** for those new to spoofing. ❤️
+- **AI-powered** support, available 24/7, to handle any questions or concerns. 🌀
 
 ---
 
 ## Features
 
 1. **Permanence & Revert**
-   - Changes remain indefinitely after the process.
-   - Includes a built-in “revert woof” function in case you wish to roll back.
+   - Changes remain permanent after the process.
+   - Includes a built-in “revert spoof” function in case you wish to roll back.
 
 2. **C++ Core**
    - Engineered in C++ for maximum performance and reliability.
