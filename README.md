@@ -16,7 +16,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 - **Regular updates** to maintain strong stability and performance. 🔨
 - **Wide game compatibility**: Fortnite (tournaments included), Valorant, Rust, Siege, Apex, COD, and more.
 - **User-friendly tutorials** for those new to spoofing. ❤️
-- **AI-powered** support, available 24/7, to handle any questions or concerns. 🌀
+- **AI-powered** support, available 24/7, to handle any questions. 🌀
 
 ---
 
@@ -37,7 +37,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 4. **Privacy & Security**
    - Minimal data logging to ensure your privacy.
-   - Thoroughly vetted: no viruses or hidden processes.
+   - Thoroughly trusted: no viruses or hidden processes.
 
 5. **Massive User Base & Reviews**
    - 25K+ people using this permanent woofer.
