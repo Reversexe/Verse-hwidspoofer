@@ -84,20 +84,6 @@ More information about this product is provided in the discord server.
 
 ---
 
-## Additional Info
-
-:Off: **100% Instant refunds if the product has malfunctioned**  
-:Love_heart: **25% off next purchase (one-time re-woof)**  
-**🕑 Easy and quick 15-minute process**  
-
----
-
-## Disclaimer & Terms
-
-- All purchases are subject to #〖📜〗tos.
-- This product is intended for legitimate use. Using it for illegal activity or cheating in ways that violate game TOS is at your own risk.
-- Verse reserves the right to refuse refunds for cases that don’t meet the conditions stated in #〖📜〗tos.
-
 **Thank you for considering Verse Spoofer**. We hope to see you enjoying your favorite games hassle-free.
 
 
