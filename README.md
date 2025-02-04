@@ -12,10 +12,13 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 - **High success rate** (83.32% with over 55,500+ woofs). ✅
 - **Deep-level** firmware overwrite, making it effectively permanent. 🔒
+
 - **Easy revert** to undo changes/spoofing if needed. ♻️
 - **Regular updates** to maintain strong stability and performance. 🔨
+
 - **Wide game compatibility**: Fortnite (tournaments included), Valorant, Rust, Siege, Apex, COD, and more.
 - **User-friendly tutorials** for those new to spoofing. ❤️
+
 - **AI-powered** support, available 24/7, to handle any questions. 🌀
 
 ---
@@ -48,7 +51,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Technical Notes
 
-- **Overwrites Firmware** to ensure permanence.
+- **Overwrites Firmware** to ensure permanent spoofing.
 - Includes **event tracking** to quickly troubleshoot any problems.
 - **Monthly stability and performance checks** keep everything running smoothly.
 - Easily **undo** (un-woof) if needed, reactivating your original hardware settings.
