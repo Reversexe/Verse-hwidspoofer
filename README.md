@@ -34,7 +34,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
    - Handles **SMBIOS / MAC / Network / Monitor EDID / Peripherals** & more.
 
 3. **Fast Setup**
-   - Once purchased, you receive detailed steps in a support ticket.
+   - Once license redeemed, you receive detailed steps in a support ticket.
    - The entire woofing process takes ~15-30 minutes.
    - Same day return to gaming with your friends.
 
