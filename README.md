@@ -68,10 +68,8 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Verse in Action
 
-### Screenshots
+### Screenshots & video
 ![Verse-media-for-resellers](https://github.com/user-attachments/assets/26384119-3666-410a-a308-01ceb9888a8f)
-
-![Serial_Checker](https://github.com/user-attachments/assets/8d765d43-d34f-439e-ba78-fd9353b9808f)
 
 [![Video Title](https://img.youtube.com/vi/8lfccOw3CrM/maxresdefault.jpg)](https://www.youtube.com/watch?v=8lfccOw3CrM)
 
