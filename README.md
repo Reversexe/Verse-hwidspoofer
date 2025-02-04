@@ -75,7 +75,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Why Choose Verse?
 
-1. *__V__*ERSE → *__V__*ALUABLE PRODUCTS  
+1. **__V__**ERSE → **__V__**ALUABLE PRODUCTS  
    - Only top-quality software, thoroughly tested.
    - Partnerships are accepted only if they meet strict standards.
 
