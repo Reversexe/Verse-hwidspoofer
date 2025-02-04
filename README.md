@@ -2,7 +2,7 @@
 IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 > **Welcome to Verse Spoofer**  
-> A widely recognized permanent hardware spoofer (often called a “woofer”) that helps you safely rejoin your favorite games. Below, you’ll find essential information, screenshots, and YouTube links to see everything in action.
+> A widely recognized permanent hardware spoofer (often called a “woofer”) that helps you safely rejoin your favorite games. Below, you’ll find essential information, screenshots, and YouTube links to see everything in action. To learn more about Verse; https://discord.gg/versewoofer
 
 ---
 
@@ -10,10 +10,10 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 **Verse Spoofer** is a **permanent hardware solution** that modifies and secures unique identifiers. It’s designed to help you avoid detection issues, letting you play popular titles without disruptions. This product is known for:
 
-- **High success rate** (83.32% with over 55,500+ woofs).
-- **Deep-level** firmware overwrite, making it effectively permanent.
-- **Easy revert** to undo changes if needed.
-- **Regular updates** to maintain strong stability and performance.
+- **High success rate** (83.32% with over 55,500+ woofs). ✅
+- **Deep-level** firmware overwrite, making it effectively permanent. 🔒
+- **Easy revert** to undo changes/spoofing if needed. ♻️
+- **Regular updates** to maintain strong stability and performance. 🔨
 - **Wide game compatibility**: Fortnite (tournaments included), Valorant, Rust, Siege, Apex, COD, and more.
 - **User-friendly tutorials** for those new to spoofing.
 - **AI-powered** support, available 24/7, to handle any questions or concerns.
