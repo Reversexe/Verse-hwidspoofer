@@ -75,12 +75,10 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Want to Learn More?
 
-There is **no trial version** of this permanent woofer, given its nature of irreversibly modifying firmware (though you can still revert if you choose to un-woof). If you have any questions, feel free to ask in a ticket.
+More information about this product is provided in the discord server.
 
 > **Join our Discord**:  
 > [Discord Invite Link](https://discord.gg/YourDiscordLinkHere)
-
-(*Exact pricing is not shown here; please join the Discord for more information.*)
 
 ---
 
