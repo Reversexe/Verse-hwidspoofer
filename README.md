@@ -84,7 +84,7 @@ More information about this product is provided in the discord server.
 
 ---
 
-**Thank you for considering Verse Spoofer**. We hope to see you enjoying your favorite games hassle-free.
+## © Verse 2025 | All rights reserved.
 
 
 
