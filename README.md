@@ -75,6 +75,13 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ---
 
+## Free serial checker
+
+### Download can be found at the release. 🔄
+![Serial_Checker](https://github.com/user-attachments/assets/f9dc0962-ac85-4026-ba5a-8ed42f81fb1e)
+
+---
+
 ## Want to Learn More?
 
 More information about this product is provided in the discord server.
