@@ -10,7 +10,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 **Verse Spoofer** is a **permanent hardware solution** that modifies and secures unique identifiers. It’s designed to help you avoid detection issues, letting you play popular titles without HWID bans. This product is known for:
 
-- **High success rate** (83.32% with over 235,500+ woofs). ✅
+- **High success rate** (81.64% with over 650,000+ woofs). ✅
 - **Deep-level** firmware overwrite, making it effectively permanent. 🔒
 
 - **Easy revert** to undo changes/spoofing if needed. ♻️
