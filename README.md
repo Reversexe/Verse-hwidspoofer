@@ -60,8 +60,8 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 ## Supported Games & Anti-Cheats
 
-- **Fortnite (+ cleaner)**, **Valorant** (New TPM Required), **Rust**, **Siege**, **Apex**, **COD** series & more.
-- Compatible with **BE (Battleye)**, **EAC (Easy Anti-Cheat)**, **VGK** (Vanguard).
+- **Fortnite (+ cleaner/TPM/Secureboot)**, **Valorant** (New TPM Required/Secureboot bypass), **Rust**, **Siege**, **Apex**, **COD** & more.
+- Compatible with **BE 🟡 (Battleye)**, **EAC 🔵 (Easy Anti-Cheat)**, **VGK** 🔴 (Vanguard).
 - **Tested and Working On**: Asus / Gigabyte / MSI / Asrock / Aorus / HP + More 💚
 
 ---
