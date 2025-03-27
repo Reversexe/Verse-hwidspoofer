@@ -35,7 +35,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
 
 3. **Fast Setup**
    - Once license redeemed, you receive detailed steps in a support ticket.
-   - The entire woofing process takes ~15-30 minutes.
+   - The entire spoofing process takes ~15-30 minutes.
    - Same day return to gaming with your friends.
 
 4. **Privacy & Security**
