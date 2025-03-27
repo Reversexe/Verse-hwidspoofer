@@ -43,7 +43,7 @@ IMGUI Permanent spoofer that works for 🔵 EAC 🟡 BE 🔴 VGK
    - Thoroughly trusted: no viruses or hidden processes.
 
 5. **Massive User Base & Reviews**
-   - 25K+ people using this permanent woofer.
+   - 25K+ people using this permanent spoofer.
    - Recommended by multiple third-party servers.
    - Over **10,000+ vouches** gathered over the past 3.5 years.
 
