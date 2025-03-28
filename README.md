@@ -1,5 +1,5 @@
 # Verse-hwidspoofer
-IMGUI Permanent spoofer that works for (Fortnite) 🔵 EAC 🟡 BE 🔴 VGK
+IMGUI Permanent hardware ID (HWID) spoofer that works for (Fortnite) 🔵 EAC 🟡 BE 🔴 VGK
 
 > **Welcome to Verse Spoofer**  
 > A widely recognized permanent hardware spoofer (often called a “woofer”) that helps you safely rejoin your favorite games. Below, you’ll find essential information, screenshots, and YouTube links to see everything in action. To learn more about Verse spoofer: https://discord.gg/versewoofer
